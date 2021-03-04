@@ -15,8 +15,8 @@
     "appName": "[concat(parameters('EngineerAlias'),'-V1-APP')]",
     "appServicePlanSku": "S1",
 
-    "adminUsername": "[parameters('EngineerAlias')]",
-    "adminPassword": "[concat(parameters('EngineerAlias'), 'PW7')]",
+    "adminUsername": "specialistAdmin",
+    "adminPassword": "passWord00",
 
     "vnetName1": "[concat(parameters('EngineerAlias'), '-V1-vnet1')]",
     "location1": "EastUS",
