@@ -16,7 +16,7 @@
     "appServicePlanSku": "S1",
 
     "adminUsername": "specialistAdmin",
-    "adminPassword": "passWord00",
+    "adminPassword": "passWord99",
 
     "vnetName1": "[concat(parameters('EngineerAlias'), '-V1-vnet1')]",
     "location1": "EastUS",
